@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Venkat",
+    "lastName": "Gowda",
+    "address": "123 Main St",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "zipCode": "560001",
+    "phone": "1234567890",
+    "ssn": "1234567",
+    "username": "User1",
+    "password": "Passwd@123",
+    "confirmPassword": "Passwd@123",
+    "isValid": true
+  },
+  {
+    "firstName": "devegowda",
+    "lastName": "parappa",
+    "address": "456 Temple St",
+    "city": "Kanakapura",
+    "state": "Karnataka",
+    "zipCode": "560118",
+    "phone": "9876543210",
+    "ssn": "987654321",
+    "username": "User2",
+    "password": "P&ass@!123",
+    "confirmPassword": "P&ass@!123",
+    "isValid": true
+  },
+  {
+    "firstName": "kavya",
+    "lastName": "Swamy",
+    "address": "church Temple St",
+    "city": "Kanakapura",
+    "state": "Karnataka",
+    "zipCode": "560119",
+    "phone": "9976543210",
+    "ssn": "987754321",
+    "username": "kavraj",
+    "password": "pass@123",
+    "confirmPassword": "pass12@123",
+    "isValid": false
+  }
+]
